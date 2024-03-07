@@ -1,0 +1,7 @@
+D:\C# module\Lab sheet\Lab Q2\bin\Debug\Lab Q2.exe.config
+D:\C# module\Lab sheet\Lab Q2\bin\Debug\Lab Q2.exe
+D:\C# module\Lab sheet\Lab Q2\bin\Debug\Lab Q2.pdb
+D:\C# module\Lab sheet\Lab Q2\obj\Debug\Lab Q2.csproj.AssemblyReference.cache
+D:\C# module\Lab sheet\Lab Q2\obj\Debug\Lab Q2.csproj.CoreCompileInputs.cache
+D:\C# module\Lab sheet\Lab Q2\obj\Debug\Lab Q2.exe
+D:\C# module\Lab sheet\Lab Q2\obj\Debug\Lab Q2.pdb
